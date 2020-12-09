@@ -1,0 +1,144 @@
+{
+  "cards":[
+    {
+      "name":"Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":false
+    },
+    {
+      "name":"Not a Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":false
+    },
+    {
+      "name":"Is a Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":true
+    },
+    {
+      "name":"Would you like some food?",
+      "text":"Well hello",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":false
+    },
+    {
+      "name":"Not a Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":false
+    },
+    {
+      "name":"Is a Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":true
+    },
+    {
+      "name":"Would you like some food?",
+      "text":"Well hello",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":false
+    },
+    {
+      "name":"Not a Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":false
+    },
+    {
+      "name":"Is a Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":true
+    },
+    {
+      "name":"Would you like some food?",
+      "text":"Well hello",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    },
+    {
+      "name":"Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":false
+    },
+    {
+      "name":"Not a Maze",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":false
+    },
+    {
+      "name":"Is a Bucket",
+      "text":"No text for you",
+      "image":"stock2.jpg",
+      "value":20,
+      "loadImage":true
+    },
+    {
+      "name":"Would you like some food?",
+      "text":"Well hello",
+      "image":"stock1.jpg",
+      "value":10,
+      "loadImage":true
+    }
+  ]
+}
