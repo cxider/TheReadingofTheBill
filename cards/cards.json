@@ -264,7 +264,7 @@
       "image":"", 
       "value":2500, 
       "loadImage":false 
-    }
+    },
     {
     "name":"Easy 2 - C", 
     "text":"Easy Cipher", 
@@ -285,7 +285,7 @@
     "image":"", 
     "value":2500, 
     "loadImage":false 
-    }
+    },
     {
     "name":"Easy 3 - C", 
     "text":"Easy Cipher", 
