@@ -85,6 +85,7 @@ function setup() {
   for( card of deck.cards){
     Deck.push(new Card(card.name,card.text,"cards/" + card.image,card.value,card.loadImage))
   }
+  document.getElementById("counter").innerHTML = Deck.length;
 }
 
 function windowResized(){
@@ -114,6 +115,7 @@ function drawCard(){
     console.log("draw");
     Deck.splice(index,1);
   }
+  document.getElementById("counter").innerHTML = Deck.length;
 }
 
 function addCard(element,card){

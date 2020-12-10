@@ -27,7 +27,31 @@ button {
   display: inline-block;
   font-size: x-large;
   border-radius: 20px;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+  }
+
+#counter {
+  background-color: #4CAF50; /* Green */
+  display: fixed;
+  border: none;
+  top: 0;
+  right: ;
+  color: white;
+  width: 50px;
+  height: 50px;
   text-align: center;
+  text-decoration: none;
+  font-size: x-large;
+  border-radius: 20px;
+  line-height: 50px;
+  white-space: nowrap;
 }
 
 .bottom {
@@ -56,6 +80,7 @@ button {
    text-align: center;
    color: #FFF;
    font-size: 0.9vw;
+   border-radius: 20px;
 }
 
 .player:hover{
