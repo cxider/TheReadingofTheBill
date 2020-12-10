@@ -6,6 +6,13 @@
       "image":"stock1.jpg",
       "value":15,
       "loadImage":1
+    },
+    {
+      "name":"The Number Boolean with text",
+      "text":"Well hello test",
+      "image":"stock1.jpg",
+      "value":15,
+      "loadImage":0
     }
   ]
 }
