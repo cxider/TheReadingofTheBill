@@ -1,18 +1,311 @@
 {
   "cards":[
     {
-      "name":"The Number Boolean",
-      "text":"Well hello test",
-      "image":"stock1.jpg",
-      "value":15,
-      "loadImage":1
+      "name":"Easy 1 - S", 
+      "text":"Easy Squiggly Line", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
     },
     {
-      "name":"The Number Boolean with text",
-      "text":"Well hello test",
-      "image":"stock1.jpg",
-      "value":15,
-      "loadImage":0
+      "name":"Easy 2 - S", 
+      "text":"Easy Squiggly Line", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 3 - S", 
+      "text":"Easy Squiggly Line", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 1 - S", 
+      "text":"Medium Squiggly Line", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 2 - S", 
+      "text":"Medium Squiggly Line", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 3 - S", 
+      "text":"Medium Squiggly Line", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 1 - S", 
+      "text":"Hard Squiggly Line", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 2 - S", 
+      "text":"Hard Squiggly Line", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 3 - S", 
+      "text":"Hard Squiggly Line", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 1 - A", 
+      "text":"Easy Anagram", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 1 - A", 
+      "text":"Medium Anagram", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 1 - A", 
+      "text":"Hard Anagram", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 2 - A", 
+      "text":"Easy Anagram", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 2 - A", 
+      "text":"Medium Anagram", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {"name":"Hard 2 - A", 
+     "text":"Hard Anagram", 
+     "image":"", 
+     "value":2500, 
+     "loadImage":false 
+    },
+    {
+      "name":"Easy 3 - A", 
+      "text":"Easy Anagram", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 3 - A", 
+      "text":"Medium Anagram", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 3 - A", 
+      "text":"Hard Anagram", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 1 - P", 
+      "text":"Easy Pictoral Algebra", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 1 - P", 
+      "text":"Medium Pictoral Algebra", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 2 - P", 
+      "text":"Easy Pictoral Algebra", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 2 - P", 
+      "text":"Medium Pictoral Algebra", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 2 - P", 
+      "text":"Hard Pictoral Algebra", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+
+    {
+      "name":"Easy 3 - P", 
+      "text":"Easy Pictoral Algebra", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 3 - P", 
+      "text":"Medium Pictoral Algebra", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 3 - P", 
+      "text":"Hard Pictoral Algebra", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {"name":"Easy 1a - M", 
+     "text":"Easy Magic Square", 
+     "image":"", 
+     "value":1000, 
+     "loadImage":false 
+    },
+    {
+      "name":"Easy 1b - M", 
+      "text":"Medium Magic Square", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 1 - M", 
+      "text":"Hard Magic Square", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 2 - M", 
+      "text":"Easy Magic Square", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 2 - M", 
+      "text":"Medium Magic Square", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 2 - M", 
+      "text":"Hard Magic Square", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 3 - M", 
+      "text":"Easy Magic Square", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false 
+    },
+    {
+      "name":"Medium 3 - M", 
+      "text":"Medium Magic Square", 
+      "image":"", 
+      "value":1500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 3 - M", 
+      "text":"Hard Magic Square", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Easy 1 - C", 
+      "text":"Easy Cipher", 
+      "image":"", 
+      "value":1000, 
+      "loadImage":false
+    },
+    {
+      "name":"Hard 1a - C", 
+      "text":"Hard Cipher", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    },
+    {
+      "name":"Hard 1b - C",
+      "text":"Hard Cipher", 
+      "image":"", 
+      "value":2500, 
+      "loadImage":false 
+    }
+    {
+    "name":"Easy 2 - C", 
+    "text":"Easy Cipher", 
+    "image":"", 
+    "value":1000, 
+    "loadImage":false 
+    },
+    {
+    "name":"Medium 2 - C", 
+    "text":"Medium Cipher", 
+    "image":"", 
+    "value":1500, 
+    "loadImage":false 
+    },
+    {
+    "name":"Hard 2 - C", 
+    "text":"Hard Cipher", 
+    "image":"", 
+    "value":2500, 
+    "loadImage":false 
+    }
+    {
+    "name":"Easy 3 - C", 
+    "text":"Easy Cipher", 
+    "image":"", 
+    "value":1000, 
+    "loadImage":false 
+    },
+    {
+    "name":"Medium 3 - C", 
+    "text":"Medium Cipher", 
+    "image":"", 
+    "value":1500, 
+    "loadImage":false 
+    },
+    {
+    "name":"Hard 3 - C", 
+    "text":"Hard Cipher", 
+    "image":"", 
+    "value":2500, 
+    "loadImage":false 
     }
   ]
 }
